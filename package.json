@@ -1,0 +1,27 @@
+{
+  "name": "fuckup",
+  "version": "1.0.0",
+  "description": "First Universal Cybernetic-Kinetic-Ultramicro-Programmer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Discordian",
+    "Eris",
+    "Hagbard",
+    "Celine",
+    "Leif",
+    "Erikson",
+    "Cabal"
+  ],
+  "author": "Dr Rhizic Natterjacks",
+  "license": "ISC",
+  "dependencies": {
+    "@princessrtfm/ddate": "^1.2.0",
+    "cheerio": "^1.0.0-rc.10",
+    "i-ching": "^0.3.5",
+    "node-fetch": "^2.6.1",
+    "openweather-apis": "^4.4.1"
+  }
+}
